@@ -1,0 +1,4 @@
+﻿
+<asp:Button  runat="server" Text="Button" BackColor="Black" ForeColor="White" />
+<asp:Button  SkinID = "muted" runat="server" Text="Button" BackColor="Green" ForeColor="White" />
+<asp:TextBox runat="server" BackColor="LightBlue" ForeColor="Black" ></asp:TextBox>
